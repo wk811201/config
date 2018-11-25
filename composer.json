@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/config",
+    "name": "wentian/laravel-admin-ext/config",
     "description": "Config extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "setting"],
